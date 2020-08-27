@@ -2,12 +2,14 @@ let koalaContainer = document.createElement('div')
 
 koalaContainer.setAttribute('class', 'ui items')
 
+// Koala Card
+// koalas are in './public/koalas.js'
 koalas.forEach(koala => {
     let koalaCard = document.createElement('div')
     koalaCard.setAttribute('class', 'item')
     koalaCard.style.cursor = 'pointer';
 
-    // Koala Image
+    // Koala Card Image
     let imageContainer = document.createElement('div')
     let koalaImage = document.createElement('img')
 
