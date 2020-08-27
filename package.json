@@ -1,0 +1,17 @@
+{
+  "name": "7.1.2-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.4",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "open": "^7.2.0"
+  }
+}
