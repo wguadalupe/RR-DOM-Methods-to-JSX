@@ -12,6 +12,7 @@
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.11.4",
     "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "cross-spawn": "^7.0.3",
     "open": "^7.2.0"
   }
 }
